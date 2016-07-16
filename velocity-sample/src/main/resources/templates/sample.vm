@@ -1,0 +1,18 @@
+<html>
+<body>
+<p>Dear Dealer,</p>
+<p>Attention! A new order is placed from ${mail.fullName} ${mail.zipcode} for the following item(s) for you.,</p>
+<p>Order ID: ${mail.orderId}<br>
+Total Items: ${mail.itemCount}<br>
+Total Order amount: ${mail.orderAmount}</p>
+
+<p>Log on to 
+<a href="https://dev.mybuildguru.com/#/home">https://dev.mybuildguru.com/#/home</a> to track the orders</p>
+
+<p>&ldquo;Happy Building, Happy Living&rdquo;<br>
+Team MBG<br>
+Support@mybuildguru.com<br>
+Toll Free number: 0000030000300<br>
+Social links: Google plus, Facebook,</p>
+</body>
+</html>
