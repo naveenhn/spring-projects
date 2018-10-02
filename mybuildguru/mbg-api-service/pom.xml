@@ -1,0 +1,58 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.sarvah</groupId>
+    <artifactId>mybuildguru</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>mbg-api-service</artifactId>
+  <packaging>pom</packaging>
+  <name>MyBuildGuru - API Service</name>
+  <modules>
+  	<module>mbg-core-domain</module>
+  	<module>mbg-product-catalog</module>
+  	<module>mbg-api-gateway</module>
+  	<module>mbg-content-management</module>
+  	<module>mbg-customer-profile</module>
+  	<module>mbg-marketing</module>
+  	<module>mbg-reviews</module>
+
+  	<module>mbg-commons</module>
+  	<module>mbg-order-management</module>
+  </modules>
+  
+  	<!-- BEGIN: Specific to mapping unit tests and covered code -->
+  <!-- <profiles>
+    <profile>
+      <id>coverage-per-test</id>
+      <build>
+        <plugins>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            Minimal supported version is 2.4
+            <version>2.13</version>
+            <configuration>
+              <properties>
+                <property>
+                  <name>listener</name>
+                  <value>org.sonar.java.jacoco.JUnitListener</value>
+                </property>
+              </properties>
+            </configuration>
+          </plugin>
+        </plugins>
+      </build>
+
+      <dependencies>
+        <dependency>
+          <groupId>org.codehaus.sonar-plugins.java</groupId>
+          <artifactId>sonar-jacoco-listeners</artifactId>
+          <version>1.2</version>
+          <scope>test</scope>
+        </dependency>
+      </dependencies>
+    </profile>
+  </profiles> -->
+  <!-- END: Specific to mapping unit tests and covered code -->
+</project>

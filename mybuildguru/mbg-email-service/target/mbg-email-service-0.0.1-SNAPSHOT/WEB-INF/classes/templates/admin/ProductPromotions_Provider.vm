@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<p>Display the Category and Subcategory list displaying the images with a promo text on top 
+of the image as a link
+( Ex: Upto 50%) On click of each of these images will take you to the respective catalog with 
+a specific category of items</p>
+
+<h3>Much more – Visit www.mybuildguru.com</h3>
+</body>
+</html>

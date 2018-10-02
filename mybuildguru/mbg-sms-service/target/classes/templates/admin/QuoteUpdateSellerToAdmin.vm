@@ -1,0 +1,1 @@
+Seller Alert: Quote Received from ${sms.fullName} for ${sms.itemCount} item(s). Total amount:${sms.orderAmount}. Log on to www.buildonn.com to check

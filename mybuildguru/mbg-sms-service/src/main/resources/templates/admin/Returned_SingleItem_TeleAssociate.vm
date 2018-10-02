@@ -1,0 +1,1 @@
+Order ID: ${sms.orderId} containing ${sms.itemName} of quantity ${sms.itemQuantity} has been returned by ${sms.fullName} from ${sms.zipcode}

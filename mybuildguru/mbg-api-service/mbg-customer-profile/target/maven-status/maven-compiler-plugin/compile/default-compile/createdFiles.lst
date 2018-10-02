@@ -1,0 +1,15 @@
+com/sarvah/mbg/userprofile/service/UserService.class
+com/sarvah/mbg/userprofile/service/impl/UserServiceImpl$StoreProductCount.class
+com/sarvah/mbg/userprofile/response/UserSummaryViewResponse.class
+com/sarvah/mbg/userprofile/response/ManageOrderResponse.class
+com/sarvah/mbg/userprofile/response/OrderManageView.class
+com/sarvah/mbg/userprofile/response/UserSummaryViewDetails.class
+com/sarvah/mbg/userprofile/ordermgmt/model/PaymentCreateRequestParam.class
+com/sarvah/mbg/userprofile/response/AdminManageDocs.class
+com/sarvah/mbg/userprofile/dao/jpa/UserOrderDetailRepository.class
+com/sarvah/mbg/userprofile/response/PaymentDetailsResponse.class
+com/sarvah/mbg/userprofile/dao/jpa/UserOrderAddressRepository.class
+com/sarvah/mbg/userprofile/response/UserSummaryView.class
+com/sarvah/mbg/dummy/service/DummySubscribe.class
+com/sarvah/mbg/userprofile/dao/jpa/UserInvoiceRepository.class
+com/sarvah/mbg/userprofile/service/impl/UserServiceImpl.class

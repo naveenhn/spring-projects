@@ -1,0 +1,16 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<p>Feeling Lucky? We are happy to announce the attractive offers on your shortlisted products
+It’s time to look at your loved ones  on MyBuildGuru to save your money.</p>
+
+<p>Images of the products which are shortlisted by them and different kind of a promotion
+being displayed on each and every image.
+On click of  this image will take users to the respective product details.</p>
+
+<p>What Experts will recommend on your shortlisted products?</p>
+
+<h4>New Products available on MyBuildGuru</h4>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<h2>BID Today!!!!!!!!!!!!</h2>
+
+<p>Bid for the best available project of your choice and stand a chance to become 
+the most entrusted Architects / Interior Designers
+Display the list of all on going projects available for bid</p>
+
+<h3>For more information visit www.mybuildguru.com</h3>
+</body>
+</html>

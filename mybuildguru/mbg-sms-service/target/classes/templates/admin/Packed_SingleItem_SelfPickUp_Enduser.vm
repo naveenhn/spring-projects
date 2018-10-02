@@ -1,0 +1,1 @@
+Greetings from Buildonn, Your order ID: ${sms.orderId} containing ${sms.itemName} has been packed by our seller. Seller details for you to do self pickup: ${sms.firstName}, ${sms.address}, ${sms.architectOrInteriorContactNumber}. Please contact us incase of any clarifications needed. Team, Buildonn +91 9916406611

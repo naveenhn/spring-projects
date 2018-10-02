@@ -1,0 +1,1 @@
+Order ID: ${sms.orderId} containing ${sms.itemCount} items have been placed by ${sms.fullName} from ${sms.zipcode}. Log on to www.buildonn.com to track orders. Order amount: ${sms.orderAmount}

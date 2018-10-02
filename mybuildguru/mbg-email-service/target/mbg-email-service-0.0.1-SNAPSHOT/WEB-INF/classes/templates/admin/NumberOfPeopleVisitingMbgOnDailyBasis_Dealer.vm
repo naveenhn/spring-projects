@@ -1,0 +1,13 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<h2>DID you Know ???????</h2>
+
+<h3>MBG visitors of this week</h3>
+
+ 
+<p>Display the statistics of the number of people who have Visited MBG and the most sought brand and product
+Showcase your best deals to stand chances of a being the most trusted product on MBG</p>
+</body>
+</html>

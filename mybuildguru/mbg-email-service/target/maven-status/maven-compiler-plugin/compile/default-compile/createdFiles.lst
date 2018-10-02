@@ -1,0 +1,7 @@
+com/sarvah/mbg/email/MbgEmailServiceApplication.class
+com/sarvah/mbg/email/ServletInitializer.class
+com/sarvah/mbg/email/receiver/EmailQueueSubscriber.class
+com/sarvah/mbg/email/config/EmailConfiguration.class
+com/sarvah/mbg/email/exception/EmailException.class
+com/sarvah/mbg/email/receiver/Mailer.class
+com/sarvah/mbg/email/receiver/Mailer$1.class

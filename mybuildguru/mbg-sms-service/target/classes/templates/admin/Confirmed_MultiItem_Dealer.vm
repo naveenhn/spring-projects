@@ -1,0 +1,1 @@
+Greetings from Buildonn, Order ID: ${sms.orderId} containing ${sms.itemCount} items of total quantity of ${sms.itemQuantity} has been confirmed to deliver by you in another ${sms.minDeliveryTimeInDays} to ${sms.maxDeliveryTimeInDays} days for ${sms.instantOrderTextInfo}. Log on to www.buildonn.com for more details. Team, Buildonn +91 9916406611

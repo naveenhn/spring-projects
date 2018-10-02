@@ -1,0 +1,12 @@
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummyProductTypeDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummyProductCommentsDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummyCategoryDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummyProductUserDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/MbgProductCatalogTestConfiguration.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummyStoreDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummyPromotionDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummyProductDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummySubCategoryDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/service/impl/ProductCatalogServiceImplTest.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummaySubCategoryDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-product-catalog/src/test/java/com/sarvah/mbg/catalog/DummayProductTypeDAO.java

@@ -1,0 +1,13 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<h2>Congratulations!!!!!</h2>
+
+<p>Your product <Display the product name >is the most preferred choice on MBG
+Display image of the product and the statistics of the number of people who have chosen it
+Showcase your best deals to stand chances of a being the most trusted product on MBG</p>
+
+<h4>For more information visit www.mybuildguru.com</h4>
+</body>
+</html>

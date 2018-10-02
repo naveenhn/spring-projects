@@ -1,0 +1,4 @@
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-content-management/src/test/java/com/sarvah/mbg/MbgProjectTestConfiguration.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-content-management/src/test/java/com/sarvah/mbg/project/service/impl/ProjectServiceImplTest.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-content-management/src/test/java/com/sarvah/mbg/project/dao/mongo/DummyProjectDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-content-management/src/test/java/com/sarvah/mbg/project/dao/mongo/DummyBidsDAO.java

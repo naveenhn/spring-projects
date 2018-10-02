@@ -1,0 +1,13 @@
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/mongo/CommentDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/mongo/CommentProductDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/service/ReviewService.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/mongo/UserOrderRepository.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/model/CommentUpdateRequestParam.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/service/impl/ReviewServiceImpl.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/jpa/ReviewUserOrderRepository.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/mongo/CommentUserDAO.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/mongo/UserInfoRepository.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/jpa/ReviewUserOrderDetailRepository.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/MbgReviewsConfiguration.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/dao/mongo/UserOrderDetailRepository.java
+/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-reviews/src/main/java/com/sarvah/mbg/reviews/model/CommentCreateRequestParam.java

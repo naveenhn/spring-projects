@@ -1,0 +1,13 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<p>We are now offering a chance to become our preferred Architects / Interior 
+Designers and stand a chance to showcase and promote your deals and portfolio to 
+a wide range of audience.</p>
+
+<h3>For more information visit www.mybuildguru.com</h3>
+
+</body>
+</html>
+

@@ -1,0 +1,5 @@
+com/sarvah/mbg/ordermgmt/DummyShippingTypeRepository.class
+com/sarvah/mbg/ordermgmt/DummyOrderRepository.class
+com/sarvah/mbg/ordermgmt/MbgOrderManagementTestConfiguration.class
+com/sarvah/mbg/ordermgmt/DummyOrderDetailsRepository.class
+com/sarvah/mbg/ordermgmt/DummyOrderStatusRepository.class

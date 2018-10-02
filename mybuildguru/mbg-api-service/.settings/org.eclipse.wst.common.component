@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="mbg-api-service">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-api-gateway/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-api-gateway/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-commons/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-commons/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-content-management/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-content-management/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-core-domain/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-core-domain/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-customer-profile/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-customer-profile/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-marketing/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-marketing/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-order-management/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-order-management/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-product-catalog/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-product-catalog/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-reviews/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/mbg-reviews/src/test/java"/>
+        <property name="context-root" value="mbg-api-service"/>
+        <property name="java-output-path" value="/mbg-api-service/bin"/>
+    </wb-module>
+</project-modules>

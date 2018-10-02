@@ -1,0 +1,1 @@
+Greetings from Buildonn, Order ID: ${sms.orderId} containing ${sms.itemCount} items has been cancelled by ${sms.fullName} from ${sms.zipcode}. Log on to www.buildonn.com for more details. Team, Buildonn +91 9916406611

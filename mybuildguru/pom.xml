@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sarvah</groupId>
+  <artifactId>mybuildguru</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>MyBuildGuru</name>
+  <description>MyBuildGuru Parent project with sub-projects and its modules</description>
+  <modules>
+  	<module>mbg-api-service</module>
+  	<module>mbg-email-service</module>
+  	<module>mbg-sms-service</module>
+  	<module>mbg-aggregator-service</module>
+  </modules>
+</project>

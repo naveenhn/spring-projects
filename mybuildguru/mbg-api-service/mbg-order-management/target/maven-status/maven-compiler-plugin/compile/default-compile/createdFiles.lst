@@ -1,0 +1,14 @@
+com/sarvah/mbg/order/dao/jpa/ItemStatusRepository.class
+com/sarvah/mbg/order/dao/jpa/OrderAddressRepository.class
+com/sarvah/mbg/order/dao/jpa/OrderStatusRepository.class
+com/sarvah/mbg/order/service/impl/OrdersComparator.class
+com/sarvah/mbg/order/service/impl/OrderServiceImpl.class
+com/sarvah/mbg/order/dao/jpa/UserInfoRepository.class
+com/sarvah/mbg/order/dao/jpa/ShippingTypeRepository.class
+com/sarvah/mbg/ordermgmt/MbgOrderManagementApplication.class
+com/sarvah/mbg/ordermgmt/response/GetOrdersResponseParent.class
+com/sarvah/mbg/ordermgmt/response/GetOrderItemsResponseParent.class
+com/sarvah/mbg/order/dao/jpa/InvoiceRepository.class
+com/sarvah/mbg/order/dao/jpa/OrderDetailsRepository.class
+com/sarvah/mbg/order/dao/jpa/OrderRepository.class
+com/sarvah/mbg/order/service/OrderService.class

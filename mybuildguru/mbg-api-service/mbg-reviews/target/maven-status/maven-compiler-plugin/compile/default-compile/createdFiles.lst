@@ -1,0 +1,13 @@
+com/sarvah/mbg/reviews/dao/mongo/CommentDAO.class
+com/sarvah/mbg/reviews/service/ReviewService.class
+com/sarvah/mbg/reviews/dao/mongo/CommentUserDAO.class
+com/sarvah/mbg/reviews/dao/mongo/CommentProductDAO.class
+com/sarvah/mbg/reviews/dao/jpa/ReviewUserOrderRepository.class
+com/sarvah/mbg/reviews/MbgReviewsConfiguration.class
+com/sarvah/mbg/reviews/dao/mongo/UserInfoRepository.class
+com/sarvah/mbg/reviews/dao/jpa/ReviewUserOrderDetailRepository.class
+com/sarvah/mbg/reviews/service/impl/ReviewServiceImpl.class
+com/sarvah/mbg/reviews/dao/mongo/UserOrderRepository.class
+com/sarvah/mbg/reviews/model/CommentUpdateRequestParam.class
+com/sarvah/mbg/reviews/dao/mongo/UserOrderDetailRepository.class
+com/sarvah/mbg/reviews/model/CommentCreateRequestParam.class

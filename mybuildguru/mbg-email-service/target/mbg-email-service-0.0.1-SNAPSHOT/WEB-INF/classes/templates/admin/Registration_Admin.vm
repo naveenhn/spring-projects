@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+<p>Image in the email as inline</p>
+<p>Congratulations, you are now one step ahead from activating your account on MyBuildGuru.
+Just click this link to verify your account Or please copy and paste the link into your browser.</p>
+<p>http://dev.ui.mybuildguru.com/~mbgwebdev/#/verifyemail/${mail.token}</p>
+<p>Download our awesome app to make your search even more simpler
+Image with a download link below.</p>
+<p>If you have not signed up for an account, please ignore this email</p>
+</body>
+</html>

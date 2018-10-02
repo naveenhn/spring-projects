@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div>
+    
+
+    <h1>Rest File Upload Example</h1>
+    <form action="v1/catalog/products/file/upload" method="post" enctype="multipart/form-data">
+    <p>
+        <input type="text" name="productId" />
+    </p>
+    <p>
+      <select name="fileType">
+            <option >Image</option>
+            <option >Image3D</option>
+            <option >File</option>
+            <option >Video</option>
+      </select>
+    </p>
+    <p>
+    Browse a file to upload : <input type="file" name="file"  multiple/>
+    </p>
+    <br>
+   
+    <input type="submit" value="upload">
+    </form>
+
+</div>
+<hr>
+
+
+</body>
+</html>

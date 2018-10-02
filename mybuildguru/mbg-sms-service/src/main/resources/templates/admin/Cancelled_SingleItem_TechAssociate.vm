@@ -1,0 +1,1 @@
+Order ID: ${sms.orderId} containing ${sms.itemName} has been cancelled by ${sms.fullName} from ${sms.zipcode}. Item amount: ${sms.orderAmount}

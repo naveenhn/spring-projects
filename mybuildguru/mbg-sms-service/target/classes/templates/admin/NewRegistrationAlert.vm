@@ -1,0 +1,6 @@
+New Registration Alert:
+Role: ${sms.roleName}
+Email: ${sms.instantOrderEmail}
+Contact Number: ${sms.instantOrderMobile}
+Address: ${sms.instantOrderTextInfo}
+Date & Time: ${sms.date}

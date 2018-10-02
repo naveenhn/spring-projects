@@ -1,0 +1,14 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<h2>Congratulations!!!!!!!!!!!</h2>
+
+<p>You have <display number of visitors> visitors who have viewed your address
+Send in your best deals ASAP and ensure that your products become the most sought in the locality
+Display the list of all visitors who have viewed the dealer’s address</p>
+
+<h3>For more information visit www.mybuildguru.com</h3>
+</body>
+</html>
+

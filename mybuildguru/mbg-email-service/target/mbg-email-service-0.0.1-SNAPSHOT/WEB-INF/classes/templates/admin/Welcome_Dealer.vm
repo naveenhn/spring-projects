@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
+
+<p>Image in the email as inline with the text given below.
+“ A warm welcome to “www.mybuildguru.com” and you will always be 
+a  very important and prestigious partner for us. 
+We ensure your experience with MBG would be a smooth ride.</p>
+
+<h4>We wish the very best and all success in helping people build their dream</h4>
+</body>
+</html>
