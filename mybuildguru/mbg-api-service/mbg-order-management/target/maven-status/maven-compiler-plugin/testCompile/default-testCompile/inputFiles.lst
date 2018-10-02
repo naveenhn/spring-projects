@@ -1,6 +1,0 @@
-/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-order-management/src/test/java/com/sarvah/mbg/ordermgmt/DummyShippingTypeRepository.java
-/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-order-management/src/test/java/com/sarvah/mbg/ordermgmt/MbgOrderManagementTestConfiguration.java
-/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-order-management/src/test/java/com/sarvah/mbg/ordermgmt/DummyOrderRepository.java
-/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-order-management/src/test/java/com/sarvah/mbg/ordermgmt/DummyOrderDetailsRepository.java
-/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-order-management/src/test/java/com/sarvah/mbg/ordermgmt/MbgOrderManagementApplicationTests.java
-/home/naveen/workspace/spring/mybuildguru/mbg-api-service/mbg-order-management/src/test/java/com/sarvah/mbg/ordermgmt/DummyOrderStatusRepository.java

@@ -1,17 +1,0 @@
-<html>
-<body>
-<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
-<p>2 Display the Category and Subcategory list displaying the images with a offer text on top of the image as a link( Ex: Upto 50%) On click of each of these images will take you to the respective catalog with a specific category of items
-
-Much more – Visit www.mybuildguru.com
-
-"Happy Building, Happy Living" 
-MBG Team
-Best "Saying" or a "quote"
-Support@mybuildguru.com
-Toll Free number: 0000030000300
-Social links: Google plus, Facebook, Twitter
-You can set your communication settings  here</p>
-
-</body>
-</html>

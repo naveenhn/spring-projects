@@ -1,6 +1,0 @@
-/home/naveen/workspace/spring/mybuildguru/mbg-email-service/src/main/java/com/sarvah/mbg/email/ServletInitializer.java
-/home/naveen/workspace/spring/mybuildguru/mbg-email-service/src/main/java/com/sarvah/mbg/email/MbgEmailServiceApplication.java
-/home/naveen/workspace/spring/mybuildguru/mbg-email-service/src/main/java/com/sarvah/mbg/email/receiver/Mailer.java
-/home/naveen/workspace/spring/mybuildguru/mbg-email-service/src/main/java/com/sarvah/mbg/email/receiver/EmailQueueSubscriber.java
-/home/naveen/workspace/spring/mybuildguru/mbg-email-service/src/main/java/com/sarvah/mbg/email/config/EmailConfiguration.java
-/home/naveen/workspace/spring/mybuildguru/mbg-email-service/src/main/java/com/sarvah/mbg/email/exception/EmailException.java

@@ -1,20 +1,0 @@
-<html>
-<body>
-<h1>Dear ${mail.firstname} ${mail.lastname}</h1>
-<p>Image in the email as inline with the text given below.</p>
-<p>A warm welcome to “www.mybuildguru.com” and you will always be a  very important and prestigious customer for us. 
-We ensure your experience of building your dream house would come true from now on.</p>
-<p>Look at a quick video on how My build guru works and help you as best Guru
-Video Link  http://loremipsum.com/loremipsum/web/verify</p>
-OR / Both 
-<p>Awesome features which can help you.
-Feature 1
-Feature 2
-Feature 3
-Feature 4
-Feature 5</p>
-<p>1000+ BRANDS    1500 DEALERS   4000 PRODUCTS   1500 Architects / Interior DesignersS     1000 INTERIOR DESIGNERS
-What customers are saying  about MybuildGurucustomer videos OR  Customer photograph with  their comments around  
-3 to 6  and link to know more which will connect  to the website.</p>
-</body>
-</html>

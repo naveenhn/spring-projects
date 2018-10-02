@@ -1,1 +1,0 @@
-Greetings from Buildonn, Order ID: ${sms.orderId} containing ${sms.itemCount} items have been returned by ${sms.fullName} from ${sms.zipcode}. Total items quantity: ${sms.itemQuantity}. Log on to www.buildonn.com for more details. Team, Buildonn +91 9916406611

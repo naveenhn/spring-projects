@@ -1,2 +1,0 @@
-Greetings from Buildonn, One of our registered and verified ${sms.roleName} tried contacting you and their details are given below.
-Name: ${sms.fullName}, Email: ${sms.instantOrderEmail}, MobileNumber: ${sms.instantOrderMobile}, Zipcode: ${sms.zipcode}. Kindly contact them to get the best service. Team, Buildonn +91 9916406611
