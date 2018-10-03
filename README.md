@@ -1,2 +1,2 @@
 # spring-projects
-Sample Spring projects 
+My workspace of spring projects.
